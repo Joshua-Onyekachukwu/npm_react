@@ -1,0 +1,24 @@
+{
+  "name": "npm-react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "NPM",
+    "REACY"
+  ],
+  "homepage": "https://github.com/Joshua-Onyekachukwu/npm_react#readme",
+  "bugs": {
+    "url": "https://github.com/Joshua-Onyekachukwu/npm_react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshua-Onyekachukwu/npm_react.git"
+  },
+  "license": "ISC",
+  "author": "Joshua Onyekachukwu",
+  "type": "commonjs",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
